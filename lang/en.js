@@ -1,6 +1,6 @@
 module.exports = {
   en: {
-    Lupin: "gang of thieves",
+    Lupin: "gang of professional thieves",
     located:"Somewhere in France"
      }
 };
